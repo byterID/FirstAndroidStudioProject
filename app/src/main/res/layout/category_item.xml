@@ -14,7 +14,7 @@
         android:contentDescription="@string/app_name"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/category"
+        app:srcCompat="@drawable/ic_category"
         tools:ignore="ImageContrastCheck" />
 
     <TextView
